@@ -21,7 +21,7 @@ This [code in Python](https://github.com/autotesthow/selene-demo) comes from the
 
 * [Python](https://python.org/)
 * [Chrome Browser](https://www.google.com/chrome/)
-* [Pycharm Comunity Edition](https://www.jetbrains.com/pycharm/)
+* [Pycharm Community Edition](https://www.jetbrains.com/pycharm/)
 
 ## Instructions
 
