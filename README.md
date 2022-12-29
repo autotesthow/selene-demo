@@ -34,10 +34,9 @@ Ensure you installed everything from the Prerequisites section and additinally i
 Open your unix terminal (or at least git bash on Windows) and execute the following commands(just copy&paste everything into the terminal and press Enter):
 
 ```bash
-git clone git@github.com:yashaka/selenidejs-demo.git selenidejs-demo \
+git clone git@github.com:autotesthow/selene-demo.git selenidejs-demo \
 && cd $_ \
-&& npm install \
-&& code .
+&& pip install selene --pre
 ```
 
 Open the project in the PyCharm. Check the code in google-finds-selenide.js and run it by either pressing context click on the file and selecting «Run» or by selecting «Terminal» item in menu «View>Tool Windows» and running:
